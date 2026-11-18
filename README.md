@@ -2,6 +2,8 @@
 
 A Next.js App Router, TypeScript and Tailwind CSS chat frontend. The app opens in dark mode and includes a light theme. This repository contains the complete application; run commands from this directory.
 
+For the full implementation history, migration details, validation results, Git workflow, and remaining work, see [Development handoff](DEVELOPMENT-HANDOFF.md).
+
 ## Run locally
 
 ```powershell
